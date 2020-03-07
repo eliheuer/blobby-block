@@ -1,2 +1,2 @@
-# bernie-sans
-A free/libre font for making Bernie2020 graphics.
+# Bernie Sans
+A free/libre Hobo-like font, redrawn with quadratic curves.
