@@ -5,20 +5,19 @@
 	<outline>
 		<contour>
 			<point x="195" y="0" type="qcurve" smooth="yes"/>
-			<point x="403" y="0"/>
-			<point x="453" y="49"/>
-			<point x="453" y="85" type="qcurve" smooth="yes"/>
-			<point x="453" y="150"/>
+			<point x="333" y="0"/>
+			<point x="423" y="49"/>
+			<point x="423" y="85" type="qcurve" smooth="yes"/>
+			<point x="423" y="150"/>
 			<point x="340" y="318"/>
 			<point x="340" y="372" type="qcurve" smooth="yes"/>
 			<point x="340" y="424"/>
 			<point x="456" y="556"/>
 			<point x="512" y="556" type="qcurve" smooth="yes"/>
 			<point x="590" y="556"/>
-			<point x="734" y="210"/>
-			<point x="734" y="72" type="qcurve" smooth="yes"/>
-			<point x="734" y="20"/>
-			<point x="794" y="0"/>
+			<point x="714" y="210"/>
+			<point x="684" y="20"/>
+			<point x="764" y="0"/>
 			<point x="896" y="0" type="qcurve" smooth="yes"/>
 			<point x="991" y="0"/>
 			<point x="1062" y="60"/>
@@ -56,7 +55,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-03-15 02:58:27 +0000</string>
+			<string>2020-03-15 19:15:31 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

@@ -19,9 +19,9 @@
 			<point x="951" y="1187"/>
 			<point x="951" y="1228" type="qcurve" smooth="yes"/>
 			<point x="951" y="1324"/>
-			<point x="658" y="1438"/>
-			<point x="524" y="1440" type="qcurve" smooth="yes"/>
-			<point x="330" y="1442"/>
+			<point x="658" y="1418"/>
+			<point x="524" y="1420" type="qcurve" smooth="yes"/>
+			<point x="330" y="1422"/>
 			<point x="75" y="1202"/>
 			<point x="75" y="1032" type="qcurve" smooth="yes"/>
 			<point x="75" y="914"/>
@@ -34,16 +34,16 @@
 			<point x="516" y="250" type="qcurve" smooth="yes"/>
 			<point x="420" y="250"/>
 			<point x="232" y="348"/>
-			<point x="184" y="456"/>
-			<point x="233" y="603"/>
+			<point x="184" y="466"/>
+			<point x="193" y="603"/>
 			<point x="140" y="603" type="qcurve" smooth="yes"/>
 			<point x="88" y="603"/>
-			<point x="31" y="452"/>
+			<point x="31" y="492"/>
 			<point x="31" y="372" type="qcurve" smooth="yes"/>
 			<point x="31" y="214"/>
-			<point x="296" y="-28"/>
-			<point x="540" y="-28" type="qcurve" smooth="yes"/>
-			<point x="752" y="-28"/>
+			<point x="296" y="-20"/>
+			<point x="540" y="-20" type="qcurve" smooth="yes"/>
+			<point x="752" y="-20"/>
 			<point x="1035" y="220"/>
 			<point x="1035" y="416" type="qcurve" smooth="yes"/>
 		</contour>
@@ -51,7 +51,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2020-03-15 03:00:08 +0000</string>
+			<string>2020-03-15 20:48:34 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>
